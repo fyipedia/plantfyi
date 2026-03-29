@@ -324,6 +324,17 @@ Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosyst
 | fishfyi | [PyPI](https://pypi.org/project/fishfyi/) | — | Fish species & marine biology — [fishfyi.com](https://fishfyi.com/) |
 | dinofyi | [PyPI](https://pypi.org/project/dinofyi/) | — | Dinosaur paleontology & fossil record — [dinofyi.com](https://dinofyi.com/) |
 
+## Embed Widget
+
+Embed [PlantFYI](https://plantfyi.com) widgets on any website with [plantfyi-embed](https://widget.plantfyi.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/plantfyi-embed@1/dist/embed.min.js"></script>
+<div data-plantfyi="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.plantfyi.com)
+
 ## License
 
 MIT
