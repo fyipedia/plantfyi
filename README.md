@@ -335,6 +335,15 @@ Embed [PlantFYI](https://plantfyi.com) widgets on any website with [plantfyi-emb
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.plantfyi.com)
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://plantfyi.com](https://plantfyi.com):
+- [Homepage](https://plantfyi.com)
+- [Developer documentation](https://plantfyi.com/developers/)
+- [Sitemap (full content index)](https://plantfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
