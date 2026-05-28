@@ -1,6 +1,6 @@
 [project]
 name = "plantfyi"
-version = "0.1.1"
+version = "0.1.2"
 description = "Plant taxonomy and cultivation API client — plantfyi.com"
 readme = "README.md"
 license = "MIT"
